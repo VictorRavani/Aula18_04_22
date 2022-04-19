@@ -1,0 +1,28 @@
+#paisagem1{
+    position: absolute; left: 100px;
+    top: 450px;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+.img{
+    position:relative;
+    left: 30px;
+    top: 200px;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+p {
+    margin-top: 50px;
+    margin-left:35px;
+    margin-right: 750px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;  
+}
+
